@@ -10,7 +10,7 @@ Este projeto é uma simulação básica de um sistema bancário desenvolvido em 
 
 3. **Extrato 📄**: Exibe o histórico de depósitos e saques realizados, além do saldo atual.
 
-4. **Sai 👤**: Encerra o programa.
+4. **Sair 👤**: Encerra o programa.
 
 ## ▶ Demonstração
 
